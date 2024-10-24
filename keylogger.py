@@ -1,5 +1,6 @@
 from pynput import keyboard
 import os
+#pip install pywin32
 import win32console
 import win32gui
 win = win32console.GetConsoleWindow()
